@@ -1,0 +1,351 @@
+.logo img{
+    width: 60px;
+    height: 40px;
+}
+.navbar-toggler {
+    color: rgb(212, 206, 206);
+    }
+.banner-box{
+        background-image: url("./asset/pick.png");
+        background-color: red;
+       height: 635px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        font-size: 18px;
+        padding-left: 11px;
+        padding-bottom: 7px;
+        color:white;
+        border-width: 15px;
+        
+    
+    }
+    #banner span{
+        border-left: solid red;
+        padding-left: 4px;
+    }
+    .container{
+        margin-top:  20px; 
+        border-top-color: black;
+    }
+    .banner-box1{
+        background-image: url("./asset/pick.png");
+        width: 290px;
+        height: 292px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        font-size: 10px;
+        padding-left: 11px;
+        padding-bottom: 7px;
+        color:white;
+        border-top-color: black;    
+
+
+    }
+    .banner-box1 span{
+        border-left: solid red;
+        padding-left: 4px;
+        font-size: 18px;
+    }
+
+    .sport {
+        border-left: solid red;
+        padding-left: 4px;
+    }
+    .cricket span{
+        border-left: solid red;
+        padding-left: 4px;
+        font-size: 18px;
+    }
+    .football span{
+       
+        border-left: solid red;
+        padding-left: 4px;
+        font-size: 18px;
+    }
+    .tenis span{
+        border-left: solid red;
+        padding-left: 4px;
+        font-size: 18px;
+    }
+    .cricket{
+
+        
+        top: 0px;
+        position: relative;
+        
+        background-color: #f2f8f9;
+        border-radius: 1px;
+        padding: 2px 4px;
+        
+        text-decoration: none;
+        z-index: 0;
+        overflow: hidden;
+       
+    }
+    .cricket:hover{
+        transition: all 0.2s ease-out;
+    box-shadow: 0px 1px 8px rgba(38, 38, 38, 0.2);
+    top: -4px;
+    border: 1px solid #cccccc;
+   
+    }
+
+    .football{
+
+        
+        top: 0px;
+        position: relative;
+        
+        background-color: #f2f8f9;
+        border-radius: 1px;
+        padding: 2px 4px;
+        
+        text-decoration: none;
+        z-index: 0;
+        overflow: hidden;
+       
+    }
+    .football:hover{
+        transition: all 0.2s ease-out;
+    box-shadow: 0px 1px 8px rgba(38, 38, 38, 0.2);
+    top: -4px;
+    border: 1px solid #cccccc;
+   
+    }
+    
+    .tenis{
+
+        
+        top: 0px;
+        position: relative;
+        
+        background-color: #f2f8f9;
+        border-radius: 1px;
+        padding: 2px 4px;
+        
+        text-decoration: none;
+        z-index: 0;
+        overflow: hidden;
+       
+    }
+    .tenis:hover{
+        transition: all 0.2s ease-out;
+    box-shadow: 0px 1px 8px rgba(38, 38, 38, 0.2);
+    top: -4px;
+    border: 1px solid #cccccc;
+   
+    }
+
+
+
+
+    .container-fluid{
+        background-image: url("./asset/breel.png");
+        background-size: cover;
+    }
+
+    /* reel */
+    .sport {
+        border-left: solid red;
+        padding-left: 4px;
+    }
+    .cricket span{
+        border-left: solid red;
+        padding-left: 4px;
+        font-size: 18px;
+    }
+    .football span{
+       
+        border-left: solid red;
+        padding-left: 4px;
+        font-size: 18px;
+    }
+    .tenis span{
+        border-left: solid red;
+        padding-left: 4px;
+        font-size: 18px;
+    }
+    .cricket{
+
+        
+        top: 0px;
+        position: relative;
+        
+        background-color: #f2f8f9;
+        border-radius: 1px;
+        padding: 2px 4px;
+        
+        text-decoration: none;
+        z-index: 0;
+        overflow: hidden;
+       
+    }
+    .cricket:hover{
+        transition: all 0.2s ease-out;
+    box-shadow: 0px 1px 8px rgba(38, 38, 38, 0.2);
+    top: -4px;
+    border: 1px solid #cccccc;
+   
+    }
+
+    .football{
+
+        
+        top: 0px;
+        position: relative;
+        
+        background-color: #f2f8f9;
+        border-radius: 1px;
+        padding: 2px 4px;
+        
+        text-decoration: none;
+        z-index: 0;
+        overflow: hidden;
+       
+    }
+    .football:hover{
+        transition: all 0.2s ease-out;
+    box-shadow: 0px 1px 8px rgba(38, 38, 38, 0.2);
+    top: -4px;
+    border: 1px solid #cccccc;
+   
+    }
+    
+    .tenis{
+
+        
+        top: 0px;
+        position: relative;
+        
+        background-color: #f2f8f9;
+        border-radius: 1px;
+        padding: 2px 4px;
+        
+        text-decoration: none;
+        z-index: 0;
+        overflow: hidden;
+       
+    }
+    .tenis:hover{
+        transition: all 0.2s ease-out;
+    box-shadow: 0px 1px 8px rgba(38, 38, 38, 0.2);
+    top: -4px;
+    border: 1px solid #cccccc;
+   
+    }
+
+/* news */
+  
+
+.news {
+    border-left: solid red;
+    padding-left: 4px;
+}
+.report span{
+    border-left: solid red;
+    padding-left: 4px;
+    font-size: 18px;
+}
+.report2 span{
+   
+    border-left: solid red;
+    padding-left: 4px;
+    font-size: 18px;
+}
+.report3 span{
+    border-left: solid red;
+    padding-left: 4px;
+    font-size: 18px;
+}
+.report{
+
+    
+    top: 0px;
+    position: relative;
+    
+    background-color: #f2f8f9;
+    border-radius: 1px;
+    padding: 2px 4px;
+    
+    text-decoration: none;
+    z-index: 0;
+    overflow: hidden;
+   
+}
+.report:hover{
+    transition: all 0.2s ease-out;
+box-shadow: 0px 1px 8px rgba(38, 38, 38, 0.2);
+top: -4px;
+border: 1px solid #cccccc;
+
+}
+
+.report2:hover{
+
+    
+    top: 0px;
+    position: relative;
+    
+    background-color: #f2f8f9;
+    border-radius: 1px;
+    padding: 2px 4px;
+    
+    text-decoration: none;
+    z-index: 0;
+    overflow: hidden;
+   
+}
+.report2:hover{
+    transition: all 0.2s ease-out;
+box-shadow: 0px 1px 8px rgba(38, 38, 38, 0.2);
+top: -4px;
+border: 1px solid #cccccc;
+
+}
+
+.report3{
+
+    
+    top: 0px;
+    position: relative;
+    
+    background-color: #f2f8f9;
+    border-radius: 1px;
+    padding: 2px 4px;
+    
+    text-decoration: none;
+    z-index: 0;
+    overflow: hidden;
+   
+}
+.report3:hover{
+    transition: all 0.2s ease-out;
+box-shadow: 0px 1px 8px rgba(38, 38, 38, 0.2);
+top: -4px;
+border: 1px solid #cccccc;
+
+}
+
+.my-card{
+    height: 100%;
+    
+}
+.my-report{
+    height: 100%;
+}
+
+.pak{
+
+    margin-bottom: 20px;
+}
+
+.pak1{
+    margin-bottom: 30px;
+}
+.pak2{
+    margin-bottom: 58px;
+}
+
+
